@@ -1,0 +1,3 @@
+D:/Projects/C++/LinkedListZadaci/cmake-build-debug/CMakeFiles/LinkedListZadaci.dir
+D:/Projects/C++/LinkedListZadaci/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/C++/LinkedListZadaci/cmake-build-debug/CMakeFiles/rebuild_cache.dir
