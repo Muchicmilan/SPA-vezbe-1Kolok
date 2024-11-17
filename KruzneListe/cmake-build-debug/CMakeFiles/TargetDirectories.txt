@@ -1,0 +1,3 @@
+D:/Projects/C++/KruzneListe/cmake-build-debug/CMakeFiles/KruzneListe.dir
+D:/Projects/C++/KruzneListe/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/C++/KruzneListe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
