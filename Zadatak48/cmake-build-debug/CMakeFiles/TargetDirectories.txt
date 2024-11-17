@@ -1,0 +1,3 @@
+D:/Projects/C++/Zadatak48/cmake-build-debug/CMakeFiles/Zadatak48.dir
+D:/Projects/C++/Zadatak48/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/C++/Zadatak48/cmake-build-debug/CMakeFiles/rebuild_cache.dir
