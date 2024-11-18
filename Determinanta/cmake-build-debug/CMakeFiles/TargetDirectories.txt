@@ -1,0 +1,3 @@
+C:/Users/Aleksandar/CLionProjects/Determinanta/cmake-build-debug/CMakeFiles/Determinanta.dir
+C:/Users/Aleksandar/CLionProjects/Determinanta/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aleksandar/CLionProjects/Determinanta/cmake-build-debug/CMakeFiles/rebuild_cache.dir
