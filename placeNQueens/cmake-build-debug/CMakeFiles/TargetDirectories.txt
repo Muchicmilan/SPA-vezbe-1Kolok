@@ -1,0 +1,3 @@
+C:/Users/Aleksandar/CLionProjects/placeNQueens/cmake-build-debug/CMakeFiles/placeNQueens.dir
+C:/Users/Aleksandar/CLionProjects/placeNQueens/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aleksandar/CLionProjects/placeNQueens/cmake-build-debug/CMakeFiles/rebuild_cache.dir
