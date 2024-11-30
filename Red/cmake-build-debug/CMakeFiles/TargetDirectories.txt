@@ -1,0 +1,3 @@
+D:/Projects/C++/Red/cmake-build-debug/CMakeFiles/Red.dir
+D:/Projects/C++/Red/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/C++/Red/cmake-build-debug/CMakeFiles/rebuild_cache.dir
