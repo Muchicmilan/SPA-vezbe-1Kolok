@@ -1,0 +1,3 @@
+D:/Projects/C++/StackInt/cmake-build-debug/CMakeFiles/StackInt.dir
+D:/Projects/C++/StackInt/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/C++/StackInt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
