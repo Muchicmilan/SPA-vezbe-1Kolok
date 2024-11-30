@@ -1,0 +1,3 @@
+D:/Projects/C++/StekAndQueue/cmake-build-debug/CMakeFiles/StekAndQueue.dir
+D:/Projects/C++/StekAndQueue/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/C++/StekAndQueue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
